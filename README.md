@@ -14,6 +14,10 @@ Powercolor RX580 Red Devil 8GB.
 ![imessage](Images/imessage.png)
 ![WiFi](Images/WiFi.png)
 
+USB Header Mappings taken from
+[simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
+![usb](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i/raw/master/usbports.jpeg)
+
 
 What's Working:
 - WiFi
