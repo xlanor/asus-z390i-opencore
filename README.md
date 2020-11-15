@@ -10,6 +10,5 @@ Powercolor RX580 Red Devil 8GB.
 
 What's not working:
 
-- Wifi and bluetooth, which should work with this card... havent figured that out.
-- Audio interfaces on the motherboard.
+- Wifi , which should work with this card.
 
