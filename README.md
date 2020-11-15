@@ -16,6 +16,7 @@ Powercolor RX580 Red Devil 8GB.
 
 USB Header Mappings taken from
 [simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
+
 ![usb](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i/raw/master/usbports.jpeg)
 
 
@@ -25,8 +26,5 @@ What's Working:
 - USB
 - Onboard Audio
 - Dual Screens through RX580 (DP/HDMI output)
-
-What's not working:
-
-- Bluetooth , which should work with this card.
+- Bluetooth
 
