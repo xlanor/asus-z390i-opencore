@@ -1,5 +1,9 @@
 # Hackintosh configuration for an Asus Z390i using opencore. 
 
+## Opencore version: 0.66
+
+## BigSur version: 11.0.1 
+
 As backup, because I went and nuked all my previous stuff which is why I switched entirely to opencore.
 
 System specifications:
