@@ -4,7 +4,7 @@
 
 
 <details>
-<summary><strong> HARDWARE </strong></summary>
+<summary><strong> Hardware </strong></summary>
 <br>
 
 | Category  | Component                            |
@@ -31,22 +31,27 @@ USB Header Mappings taken from
 ![usb](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i/raw/master/usbports.jpeg)
 </details>
 
-What's Working:
-- WiFi
-- iMessages
-- USB
-- Onboard Audio
-- Dual Screens through RX580 (DP/HDMI output)
-- Bluetooth
-- Sidecar (Both wired via USB-C <-> iPad Pro and wireless (same wifi network)) 
-- Airdrop
-
-What's not working:
-- Netflix DRM on Safari (I suspect amazon prime too, even with shiki value set.) This means you will be capped to 720p. Refer to [acidanthera](https://github.com/acidanthera/bugtracker/issues/1034), but the root cause appears to be Lilu userspace being broken. This doesn't affect me because I primarily use other sources to get my TV shows, but it should be a considering factor in whether Big Sur or Catalina is more suitable for you
-
+<details>
+<summary><strong> Features </strong></summary>
+  
+| Feature  | Status                            |
+| --------- | ------------------------------------ |
+ | WiFi | :white_check_mark: |
+ | iMessages | :white_check_mark: |
+ | USB | :white_check_mark: |
+ | Onboard Audio | :white_check_mark: |
+ | Dual Screens through RX580 (DP/HDMI output) | :white_check_mark: |
+ | Bluetooth | :white_check_mark: |
+ | Sidecar (Both wired via USB-C <-> iPad Pro and wireless (same wifi network))  | :white_check_mark: |
+ | Airdrop | :white_check_mark: |
+ | Netflix DRM on Safari | :x:  Refer to [acidanthera](https://github.com/acidanthera/bugtracker/issues/1034) |
+ 
+ 
 ## A note about Sidecar.
 For sidecar, you have to ensure that within BIOS, iGPU multi monitor mode is enabled, with a reserved memory of 64mb.
 
 Even though in config.plist the reserved memory is set to 19mb for the iGPU, this will only act as a failover.
 
 Take note to set the primary GPU to auto in BIOS if using a dGPU like I am.
+
+</details>
