@@ -1,18 +1,25 @@
 # Hackintosh configuration for an Asus Z390i using opencore. 
 
-## Opencore version: 0.66
+![BigSur](https://img.shields.io/badge/macOS-11.0.1-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-blue)
 
-## BigSur version: 11.0.1 
 
-As backup, because I went and nuked all my previous stuff which is why I switched entirely to opencore.
+<details>
+<summary><strong> HARDWARE </strong></summary>
+<br>
 
-System specifications:
+| Category  | Component                            |
+| --------- | ------------------------------------ |
+| CPU       | [Intel Core i9-9900k](https://ark.intel.com/content/www/us/en/ark/products/186605/intel-core-i9-9900k-processor-16m-cache-up-to-5-00-ghz.html) |
+| SSD       | [Adata XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive](https://www.xpg.com/us/xpg/583) |
+| Display   | [Prism Plus X315/C315 Max](https://prismplus.sg/products/prism-c315-max), Anmite 27 inch IPS |
+| WiFi & BT | Dell DW1560 |
+| GPU       | [Powercolor Red Devil RX580](https://www.powercolor.com/product?id=1493084304) |
 
-Asus ROG Strix Z390i ( Wifi Card has been replaced with DW1560 BCM94352Z )
+- This motherboard was specifically selected because it was the only one in stock with a removable WiFi card. The stock WiFi card was removed and replaced with a DW1560.
+</details>
 
-Intel i9-9900k
-
-Powercolor RX580 Red Devil 8GB.
+<details>
+<summary><strong> Screenshots </strong></summary>
 
 ![Desktop](Images/desktop.png)
 ![imessage](Images/imessage.png)
@@ -22,7 +29,7 @@ USB Header Mappings taken from
 [simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
 
 ![usb](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i/raw/master/usbports.jpeg)
-
+</details>
 
 What's Working:
 - WiFi
