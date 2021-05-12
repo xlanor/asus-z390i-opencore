@@ -1,6 +1,6 @@
 # Hackintosh configuration for an Asus Z390i using opencore. 
 
-![BigSur](https://img.shields.io/badge/macOS-11.0.1-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-blue)
+![BigSur](https://img.shields.io/badge/macOS-11.4--alpha3-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue)
 
 
 <details>
