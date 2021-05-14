@@ -54,4 +54,8 @@ Even though in config.plist the reserved memory is set to 19mb for the iGPU, thi
 
 Take note to set the primary GPU to auto in BIOS if using a dGPU like I am.
 
+## A note about netflix
+in 11.4-beta3, it appears that having netflix open in chrome/ff and then subsequently opening Safari really fucks with it.
+
 </details>
+
