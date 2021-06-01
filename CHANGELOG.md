@@ -12,3 +12,6 @@
 - Added OpenCanopy (which became native in 0.6.7) for a nicer OpenCore experience.
 - Disabled XhciPortLimit because we already have mapped USBs. And 11.3 behaves really weirdly with it.
 - Bumped MacOS to 11.4-alpha3 (20F5065a), Developer Preview Build.
+
+# 0.69-11.4
+- Updated to release version of 11.4 with no obvious issues so far.
