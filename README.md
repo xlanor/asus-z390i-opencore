@@ -13,6 +13,7 @@
 | Category  | Component                            |
 | --------- | ------------------------------------ |
 | CPU       | [Intel Core i9-9900k](https://ark.intel.com/content/www/us/en/ark/products/186605/intel-core-i9-9900k-processor-16m-cache-up-to-5-00-ghz.html) |
+| Mobo      | [Asus Rog Strix Z390-I Gaming](https://rog.asus.com/sg/motherboards/rog-strix/rog-strix-z390-i-gaming-model/)
 | SSD       | [Adata XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive](https://www.xpg.com/us/xpg/583) |
 | Display   | [Prism Plus X315/C315 Max](https://prismplus.sg/products/prism-c315-max), Anmite 27 inch IPS |
 | WiFi & BT | Dell DW1560 |
