@@ -15,3 +15,7 @@
 
 # OC:0.69 MacOS:11.4-beta3 - 11.4
 - Updated to release version of 11.4 with no obvious issues so far.
+
+# OC:0.69 MacOS:11.4 (No software changes)
+- Changed from RX580 Red Devil to Sapphire Pulse 6800xt
+- Added agpdmod boot-args in config.plist for RDNA cards.
