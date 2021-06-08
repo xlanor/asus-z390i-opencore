@@ -13,7 +13,7 @@
 | SSD       | [Adata XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive](https://www.xpg.com/us/xpg/583) |
 | Display   | [Prism Plus X315/C315 Max](https://prismplus.sg/products/prism-c315-max), Anmite 27 inch IPS |
 | WiFi & BT | Dell DW1560 |
-| GPU       | [Powercolor Red Devil RX580](https://www.powercolor.com/product?id=1493084304) |
+| GPU       | [Sapphire Pulse 6800XT 16g gddr6](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6800-xt-16g-gddr6) |
 
 - This motherboard was specifically selected because it was the only one in stock with a removable WiFi card. The stock WiFi card was removed and replaced with a DW1560.
 </details>
