@@ -3,7 +3,7 @@
 ### This is NOT a copy and paste to get it working repository - the folder structure isn't even close to the actual EFI folder structure and is meant for backup purpose only. Kindly refer to [dortania](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) to build your own config/USB. If you have similar hardware and are running into issues with the config.plist, feel free to open an issue
 
 
-![Monterey](https://img.shields.io/badge/macOS-11.2-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue)
+![Monterey](https://img.shields.io/badge/macOS-12.0-beta4-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue)
 
 
 <details>
