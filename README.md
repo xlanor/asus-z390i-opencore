@@ -45,7 +45,7 @@ USB Header Mappings taken from
  | USB | :white_check_mark: |
  | Onboard Audio | :white_check_mark: |
  | Dual Screens through RX580 (DP/HDMI output) | :white_check_mark: |
- | Bluetooth | :white_check_mark: |
+ | Bluetooth | :x: Bluetooth is buggy on MacOS 12. |
  | Sidecar (Both wired via USB-C <-> iPad Pro and wireless (same wifi network))  | :white_check_mark: |
  | Airdrop | :white_check_mark: |
  | Netflix DRM on Safari | :x:  Refer to [acidanthera](https://github.com/acidanthera/bugtracker/issues/1034) |
