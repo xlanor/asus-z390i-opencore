@@ -3,7 +3,7 @@
 ### This is NOT a copy and paste to get it working repository - the folder structure isn't even close to the actual EFI folder structure and is meant for backup purpose only. Kindly refer to [dortania](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) to build your own config/USB. If you have similar hardware and are running into issues with the config.plist, feel free to open an issue
 
 
-![BigSur](https://img.shields.io/badge/macOS-11.4-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue)
+![Monterey](https://img.shields.io/badge/macOS-12.0-beta4-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue)
 
 
 <details>
@@ -45,7 +45,7 @@ USB Header Mappings taken from
  | USB | :white_check_mark: |
  | Onboard Audio | :white_check_mark: |
  | Dual Screens through RX580 (DP/HDMI output) | :white_check_mark: |
- | Bluetooth | :white_check_mark: |
+ | Bluetooth | :x: Bluetooth is buggy on MacOS 12. |
  | Sidecar (Both wired via USB-C <-> iPad Pro and wireless (same wifi network))  | :white_check_mark: |
  | Airdrop | :white_check_mark: |
  | Netflix DRM on Safari | :x:  Refer to [acidanthera](https://github.com/acidanthera/bugtracker/issues/1034) |
