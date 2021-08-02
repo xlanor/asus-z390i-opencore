@@ -1,6 +1,6 @@
 # Hackintosh configuration for an Asus Z390i using opencore. 
 
-### This is NOT a copy and paste to get it working repository - the folder structure isn't even close to the actual EFI folder structure and is meant for backup purpose only. Kindly refer to [dortania](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) to build your own config/USB. If you have similar hardware and are running into issues with the config.plist, feel free to open an issue
+### This is NOT a copy and paste to get it working repository - the folder structure is meant for backup purpose only. Kindly refer to [dortania](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) to build your own config/USB. If you have similar hardware and are running into issues with the config.plist, feel free to open an issue
 
 
 ![Monterey](https://img.shields.io/badge/macOS-12.0beta4-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue)
@@ -28,6 +28,8 @@
 ![Desktop](Images/desktop.png)
 ![imessage](Images/imessage.png)
 ![WiFi](Images/WiFi.png)
+![BT](Images/bluetooth.png)
+![xcode](Images/xcode.png)
 
 USB Header Mappings taken from
 [simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
@@ -45,7 +47,7 @@ USB Header Mappings taken from
  | USB | :white_check_mark: |
  | Onboard Audio | :white_check_mark: |
  | Dual Screens through RX580 (DP/HDMI output) | :white_check_mark: |
- | Bluetooth | :x: Bluetooth is buggy on MacOS 12. |
+ | Bluetooth | :x: Bluetooth is buggy on MacOS 12. Works sometimes then fucks up and requires a reboot. |
  | Sidecar (Both wired via USB-C <-> iPad Pro and wireless (same wifi network))  | :white_check_mark: |
  | Airdrop | :white_check_mark: |
  | Netflix DRM on Safari | :x:  Refer to [acidanthera](https://github.com/acidanthera/bugtracker/issues/1034) |
@@ -59,8 +61,9 @@ Even though in config.plist the reserved memory is set to 19mb for the iGPU, thi
 Take note to set the primary GPU to auto in BIOS if using a dGPU like I am.
 
 ## A note about netflix
-in 11.4-beta3, it appears that having netflix open in chrome/ff and then subsequently opening Safari really fucks with it.
+Still doesn't work what's new.
 
-For now, just don't open safari while watching netflix.
+I love paying for something that is DRM'ed so heavily I can't even watch the 4k I paid for on linux.
+
 </details>
 

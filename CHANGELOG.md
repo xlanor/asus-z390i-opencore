@@ -20,6 +20,11 @@
 - Changed from RX580 Red Devil to Sapphire Pulse 6800xt
 - Added agpdmod boot-args in config.plist for RDNA cards.
 
-# OC:0.69 MacOS:12.0
+# OC:0.69 MacOS:12.0-beta4
 - Replaced BrcmBluetoothInjector with BlueToolFixup. Refer to BrcmPatchRAM repo for more.
 - Bumped all Kexts to latest versions. Will bump OpenCore later, but need to review OpenCanopy changes first which breaks some things.
+
+# OC:0.71 MacOS:12.0-beta4
+- Restructured into EFI/Boot and EFI/OC
+- Restructured Resources folder - ensure that Themes work, and also added four new Compulsory labels into Resources/Labels
+- Added new flags from 0.69-0.71 in config.plist - the major differences were really in OpenCanopy.
