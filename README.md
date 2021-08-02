@@ -5,6 +5,20 @@
 
 ![Monterey](https://img.shields.io/badge/macOS-12.0beta4-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-blue)
 
+![Desktop](Images/desktop.png)
+
+![imessage](Images/imessage.png)
+
+![WiFi](Images/WiFi.png)
+
+![xcode](Images/xcode.png)
+
+![BT](Images/bluetooth.png)
+
+USB Header Mappings taken from
+[simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
+
+![usb](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i/raw/master/usbports.jpeg)
 
 <details>
 <summary><strong> Hardware </strong></summary>
@@ -23,19 +37,7 @@
 </details>
 
 <details>
-<summary><strong> Screenshots </strong></summary>
 
-![Desktop](Images/desktop.png)
-![imessage](Images/imessage.png)
-![WiFi](Images/WiFi.png)
-![BT](Images/bluetooth.png)
-![xcode](Images/xcode.png)
-
-USB Header Mappings taken from
-[simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
-
-![usb](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i/raw/master/usbports.jpeg)
-</details>
 
 <details>
 <summary><strong> Features </strong></summary>
