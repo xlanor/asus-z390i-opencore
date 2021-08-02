@@ -5,15 +5,15 @@
 
 ![Monterey](https://img.shields.io/badge/macOS-12.0beta4-brightgreen) ![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-blue)
 
-![Desktop](Images/desktop.png)
+![Desktop](Images/desktop-12.0.png)
 
-![imessage](Images/imessage.png)
+![imessage](Images/imessage-12.0.png)
 
-![WiFi](Images/WiFi.png)
+![WiFi](Images/WiFi-12.0.png)
 
-![xcode](Images/xcode.png)
+![xcode](Images/xcode-12.0.png)
 
-![BT](Images/bluetooth.png)
+![BT](Images/bluetooth-12.0.png)
 
 USB Header Mappings taken from
 [simonculton](https://github.com/simoncoulton/opencore-asus-rog-strix-z390i)
