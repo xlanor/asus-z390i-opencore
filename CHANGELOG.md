@@ -28,3 +28,9 @@
 - Restructured into EFI/Boot and EFI/OC
 - Restructured Resources folder - ensure that Themes work, and also added four new Compulsory labels into Resources/Labels
 - Added new flags from 0.69-0.71 in config.plist - the major differences were really in OpenCanopy.
+
+# OC:0.76 MacOS:12.0-beta4 (Havent had time to upgrade to 12.1)
+- Removed Bless and used the new OpenLinuxBoot driver to properly detect ext4 fs and load kernels.
+- Removed legacy brightness SDST patching and used BrightnessKeys kext
+- General config updating for new version of OC
+- Updated Drivers to latest. Not much affecting here, just doing it to prevent jumping between versions too much at a later stage.
